@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mftakumi
+- 👋 Hi, I’m @bashirut
 - 👀 I’m interested in becoming software devoloper/devops engineer.
 - 🌱 I’m currently learning python and familiarizing myself with linux cli.
 - 💞️ I’m looking to collaborate on any python projects.
