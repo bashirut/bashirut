@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bashirut
-- 👀 I’m interested in becoming cloud engineer/devops engineer.
+- 👀 I’m interested in becoming a cloud engineer/devops engineer.
 - 🌱 I’m currently learning python and familiarizing myself with linux cli.
 - 💞️ I’m looking to collaborate on any python projects.
 - 📫 How to reach me via email: tawfeeqbashiru@gmail.com
